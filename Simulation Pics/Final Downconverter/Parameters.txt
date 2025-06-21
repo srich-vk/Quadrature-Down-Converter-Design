@@ -1,0 +1,15 @@
+Oscillator Frequency:
+	Theoretical - 280.202KHz
+	Observed - 100.20792KHz
+Oscillator Amplitude:
+	Quadrature Component - 0.985671281815 V
+	In-phase Component - 0.984482049942 V
+Input Signal:
+	Frequency - 98Hz
+	Amplitude - 200mV peak to peak
+Supply Voltages:
+	Positive Supply For Op-Amps (Vdd) - 5V
+	Bias for Oscillator - 2.5V
+	Bias for Mixer - 0.5V
+Coupling Capacitances - 10uF
+Low Pass Filter Cutoff Frequency - 6kHz
